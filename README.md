@@ -1,4 +1,4 @@
-# BlogFlow - Your Blogging Adventure Awaits 🚀
+# BlogO - Your Blogging Adventure Awaits 🚀
 
 Welcome to Blogo, the blogging app built with Next.js! Express yourself, connect with your community, and craft compelling narratives effortlessly.
 
